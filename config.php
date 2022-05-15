@@ -13,7 +13,7 @@ $url_sistema = "https://adm.guarigliaeventos.com/sistema_gestao_oficina/";
 $host = 'localhost';
 $usuario = 'root';
 $senha = '';
-$banco = 'oficina';
+$banco = 'oficina_01';
 
 //Paginação
 $opcao1 = 10;
